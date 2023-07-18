@@ -1,0 +1,21 @@
+[submodule "DAQSysBenchmarkCore/vendor/spdlog"]
+	path = DAQSysBenchmarkCore/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "DAQSysBenchmarkCore/vendor/glm"]
+	path = DAQSysBenchmarkCore/vendor/glm
+	url = https://github.com/CUST-CNM/glm.git
+[submodule "DAQSysBenchmarkCore/vendor/stb"]
+	path = DAQSysBenchmarkCore/vendor/stb
+	url = https://github.com/CUST-CNM/stb.git
+[submodule "DAQSysBenchmarkCore/vendor/imgui"]
+	path = DAQSysBenchmarkCore/vendor/imgui
+	url = https://github.com/CUST-CNM/imgui.git
+[submodule "DAQSysBenchmarkCore/vendor/glfw"]
+	path = DAQSysBenchmarkCore/vendor/glfw
+	url = https://github.com/CUST-CNM/glfw.git
+[submodule "DAQSysBenchmarkCore/vendor/magic_enum"]
+	path = DAQSysBenchmarkCore/vendor/magic_enum
+	url = https://github.com/CUST-CNM/magic_enum.git
+[submodule "DAQSysBenchmarkCore/vendor/eigen"]
+	path = DAQSysBenchmarkCore/vendor/eigen
+	url = https://gitlab.com/cust-cnm/eigen.git
